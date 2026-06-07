@@ -64,14 +64,6 @@ Whether you're playing competitive shooters, open-world adventures, racing games
 
 ---
 
-## 🖼️ Dashboard
-
-![Dashboard](assets/dashboard.png)
-
----
-
-## 📊 Performance Comparison
-
 ![Performance Comparison](assets/fps-comparison.png)
 
 ---
